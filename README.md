@@ -336,7 +336,7 @@ def main():
             elif opcion == "7":
                 gestor.enviar_api() # type: ignore
             elif opcion == "8":
-                print("\n👋 ¡Gracias por usar el Gestor de Videojuegos! Hasta luego.")
+                print("\n ¡Gracias por usar el Gestor de Videojuegos! Hasta luego.")
                 break
             else:
                 print("\n⚠ Opción no válida. Por favor, intenta de nuevo.")
